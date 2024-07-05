@@ -6,7 +6,7 @@ This Study Guide was created by Zakaria Jokharidze, boot camp student, while goi
 
 ## Installation
 
-No installation required. You can visit [Zakaria Jokharidze's Prework Study Guide](https://zakroj.githubpages.com/prework-study-guide) to use the website.
+No installation required. You can visit [Zakaria Jokharidze's Prework Study Guide](https://zakroj.github.io/prework-study-guide) to use the website.
 
 ## Usage
 
